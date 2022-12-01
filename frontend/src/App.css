@@ -1,0 +1,7 @@
+div[checkanswer="false"] {
+  color: red;
+}
+
+div[checkanswer="true"] {
+  color: green;
+}
